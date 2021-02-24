@@ -1,0 +1,7 @@
+C:\Users\55169\source\repos\Ex_List\Ex_List\bin\Debug\Ex_List.exe.config
+C:\Users\55169\source\repos\Ex_List\Ex_List\bin\Debug\Ex_List.exe
+C:\Users\55169\source\repos\Ex_List\Ex_List\bin\Debug\Ex_List.pdb
+C:\Users\55169\source\repos\Ex_List\Ex_List\obj\Debug\Ex_List.csprojAssemblyReference.cache
+C:\Users\55169\source\repos\Ex_List\Ex_List\obj\Debug\Ex_List.csproj.CoreCompileInputs.cache
+C:\Users\55169\source\repos\Ex_List\Ex_List\obj\Debug\Ex_List.exe
+C:\Users\55169\source\repos\Ex_List\Ex_List\obj\Debug\Ex_List.pdb
